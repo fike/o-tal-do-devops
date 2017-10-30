@@ -1,0 +1,28 @@
+
+{
+  "title": "O tal do DevOps",
+  "language": "pt",
+  "author": "Fernando Ike",
+  "root": "./pt",
+  "structure": {
+    "readme": "README.md",
+    "glossary": "GLOSSARY.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "disqus",
+    "ga",
+    "github"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": ""
+    },
+    "ga": {
+      "token": ""
+    },
+    "github": {
+      "url": "https://github.com/fike/o-tal-do-devops"
+    }
+  }
+}
