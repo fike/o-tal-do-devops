@@ -5,7 +5,7 @@
   "author": "Fernando Ike",
   "root": "./pt",
   "structure": {
-    "readme": "apresentacao.md",
+    "readme": "introducao.md",
     "glossary": "GLOSSARY.md",
     "summary": "SUMMARY.md"
   },
