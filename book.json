@@ -16,13 +16,27 @@
   ],
   "pluginsConfig": {
     "disqus": {
-      "shortName": ""
+      "shortName": "fernandoike"
     },
     "ga": {
       "token": "UA-88288312-3"
     },
     "github": {
       "url": "https://github.com/fike/o-tal-do-devops"
+    },
+    "autocover": {
+      "font": {
+        "size": null,
+        "family": "Impact",
+        "color": "#FFF"
+      },
+      "size": {
+        "w": 1800,
+        "h": 2360
+      },
+      "background": {
+        "color": "#09F"
+      }
     }
   }
 }

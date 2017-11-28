@@ -1,20 +1,19 @@
-# Introdução
+## Os três estalos DevOps
 
-Muitos eventos técnicos no Brasil que tinham DevOps como tema pouco debatiam a parte da cultura, a maioria absoluta eram palestras técnicas sobre produtos e serviços. Uma das perguntas mais recorrentes do público para a maioria dos palestantes era como eles fizeram para mudar a cultura de ondem trabalhavam. A implantação da Cultura DevOps é mais díficil do que automtizar a Infraestrutura ou aplicar testes unitários em Desenvolvimento, mudança cultural de uma organização é um longo ciclo mas que pode acelerado porque DevOps permite ver os efeitos de sua implantação a curto prazo.
+O primeiro estalo sobre DevOps aconteceu entre 2009 e 2010, trabalhava numa empresa pública brasileira chamada EBC (Empresa Brasil de Comunicação). Não lembro exatamente quem indicou ou onde li sobre a palestra de John Allspaw e Paul Hammond: 10 deploys per day. Eles trabalhavam no Flickr que até aqueles anos era dos grandes hypes na internet, com números impressionantes de publicação de fotos na época.
 
-Este livro tem o objetivo de mostrar um dos diversos caminhos de como implantar a  DevOps numa organização. Ele não pretende ser uma guia definitivo e nem a bíblia no assunto, ele pode \(e deve\) ser encarado como um guia de referência se alguma parte não for adequada ao sua realidade.
+Ao chegar na EBC fiquei responsável por reorganizar a área de TI, implantamos Agile na equipe de desenvolvimento e algumas coisas relacionadas a DevOps na equipe de operação de TI. Fizemos muitas coisas interessantes lá, conseguimos não só melhorar a produtividade e estabilidade dos sistemas mas fazer um grande tecnológico de toda organização. Nem tudo que tentamos foi realizado com sucesso, tivemos alguns fracassos mas o saldo geral foi positivo.
 
-## Meu contato com DevOps
+Esse processo de transformação da EBC foi até o fim de 2011, saí bem satisfeito com o que foi feito lá. Passado a ressaca inicial (três meses depois) da saída, sentia uma frustração e me perguntava por que estava tão frustrado se tínhamos conseguimos resultados excelentes naquele período? Tentando encontrar algumas respostas, participei de um curso para Scrum Master ministrado pelo Manoel Pimentel, este curso teve duas coisas que aconteceram que lembro como se fosse ontem.
 
+![](/images/martie_management30.png)
 
+A primeira delas foi quando Manoel explicou um pouco sobre Management 3.0 como um framework para melhorar a produtividade das equipes. Identifiquei totalmente com aquilo, principalmente porque vi que eu era o Martie. Foi ali que tive o segundo estalo e entendi a importância da gerência ser patrocinador da mudança, não importando com das práticas de aceleração da produtividade de organização: Agile, Lean, DevOps, etc. Saí daquele curso decidido a montar uma apresentação sobre a experiência da EBC com o título “Management 3.0: A vida pós-agilidade”.
 
-## Organização
+Neste período me afastei um pouco de DevOps, estava no momento de reflexão sobre qual caminho a seguir. Eu era neste período consultor técnico (Pré-Sales) de Web Performance e Segurança na nuvem numa parceira da Akamai chamada Exceda. Trabalhei em muitas integrações dos sites e aplicações dos clientes com os serviços da Akamai, muitas delas duravam muitos meses trabalhando com as equipes de Desenvolvimento e Operações de TI. Aos poucos fui percebendo que não importava se a organização era pública ou privada, se era uma startup nascida no mundo digital ou uma empresa tradicional com mais de um século de existência, os problemas para fazer deploy de novas versões das aplicações continuavam ser trabalhosas e estressantes. Na maioria dos casos o problema estava localizado na cultura da organização, apesar de usarem as melhores ferramentas e técnicas, os líderes da organização continuavam pensando no modo antigo ou até tinham interesse em melhorar os processos e técnicas mas não sabiam como propor para equipes, muitos forçavam o DevOps mas as equipes não sabiam nem por onde começam.
 
-O livro está organizado em três grandes temas baseado no [The Three Way ](https://itrevolution.com/the-three-ways-principles-underpinning-devops/)de [Gene Kim](http://www.realgenekim.me/):
+O terceiro estalo veio ao fazer o curso do John Willis pela EDX - “Introduction to DevOps: Transforming and Improving Operations”. Este curso tinha ementa baseado no The Three Way de Gene Kim como mindset de implantação de DevOps numa organização. Ele abriu a  minha cabeça para entender o quanto é importante estar alinhado a TI com negócio, como também a liderança das organizações são importantes para implantação da cultura DevOps seja bem sucedida. Também deixou evidente como a influência de Taylor, Ford, Toyota, Lean, Agile e muitos são importantes referências para DevOps.
 
-* The First Way: Systems Thinking
-* The Second Way: Amplificação dos loops de Feedback
-* The Third Way: Cultura da Experimentação Contínua e Aprendizado
+Acredito que a cultura DevOps é o caminho mais curto para organizações tradicionais façam o movimento para se tornarem digitais (a tal da transformação digital), como também a melhora maneira de acelerar as empresas já nascidas digitalmente.
 
-Eles são o caminho mais direto para implantar um círculo virtuoso em direção a cultura DevOps e organiazções de alta peformance.
-
+Este livro é uma tentativa de mostrar um caminho para organizações que aprendam rapidamente e pensem como cientistas (de foguetes). :)
